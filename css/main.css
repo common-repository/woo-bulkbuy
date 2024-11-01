@@ -1,0 +1,14 @@
+
+body.post-type-archive-product ul.products li.product button{
+	margin-top:  20px;
+	margin-right: 6px;
+}
+
+@media(max-width: 1144px){
+
+	body.post-type-archive-product ul.products li.product button{
+		margin-right: 0;
+
+	}
+
+}
